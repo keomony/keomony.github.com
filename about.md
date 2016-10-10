@@ -3,8 +3,8 @@ layout: page
 title: About
 ---
 
-Give people something to read and get to know you. Here's my attempt: this is [Mu-An](http://muan.co), a designer developer who lives in London at the moment.
+A mother and an ex-PHPist from Cambodia trying to be a Rubyist [Mony](http://keomony.github.io). A student at Makersacademy, London.
 
-Tweet at [@muanchiou](http://twitter.com/muanchiou), read my code on [GitHub](http://github.com/muan), see my designs on [Dribbble](http://dribbble.com/muan), find my CV on [LinkedIn](http://uk.linkedin.com/in/muanchiou).
+Tweet at [@freezing_sky](http://twitter.com/freezing_sky), read my code on [GitHub](http://github.com/keomony), find my CV on [LinkedIn](https://www.linkedin.com/in/keomony-khun-682378129).
 
-This theme is made by me. You have a nice day. ♥
+You have a nice day. ♥
