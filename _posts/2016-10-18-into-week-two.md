@@ -1,3 +1,4 @@
+---
 layout: post
 title: W2 Pre-course @Makersacademy
 date: 2016-10-18 15:27:31
@@ -9,7 +10,7 @@ Pairing:
 But hey, week 2 is even more exciting! I have a friend to study with. We even do the pairing when we try to solve Codewars challenges. Since we have created a comfortable environment, pairing is so much fun for us. It really proves 2 heads is better than 1.
 
 Tutorial books:
-At least one of the below books must be completed and pushed to your Github account. 
+At least one of the below books must be completed and pushed to your Github account.
 Chris Pine’s Learn to Program - All of it
 Ruby Kickstart - At least Chapter 1, 2 and 3
 Learn Ruby the Hard Way - At least until chapter 40
