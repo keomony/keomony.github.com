@@ -10,6 +10,6 @@ Tweet at [@freezing_sky](http://twitter.com/freezing_sky), read my code on [GitH
 
 'Developing small web apps with great love' inspired by mother Teresa 'Not all of us can do great things. But we can do small things with great love.'
 
-About this blog, all blogs are written by me as a human being not as a Technical professional.
+All blogs are written from the point of view of a human being not of a Technical professional.
 
 You have a nice day. ♥
